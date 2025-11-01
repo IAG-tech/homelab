@@ -39,9 +39,6 @@ This roadmap evolves as the lab grows and new experiments appear.
     
 *If you´re into networks, self-hosting and learn by doing - welcome*
 
--
-  -
--
 
 
 
