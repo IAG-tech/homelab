@@ -1,10 +1,10 @@
 # 🏠 Homelab
 
-This repository documents my hands-on learning about networks, Linux, system administration and security hardening through a personal homelab
+This repository documents my hands-on journey into networks, Linux, system administration and security hardening through a personal homelab.
 
 ## 🎯Goals
 
-- Build a solid base in networks (routing, VLAN,  DNS, VPNs)
+- Build a solid base in networks (routing, VLANs,  DNS, VPNs).
 - Improve security/hardening practices.
 - Strengthen Linux system administration skills.
 - Learn by doing instead of only reading or lab simulating.
@@ -13,15 +13,15 @@ This repository documents my hands-on learning about networks, Linux, system adm
 ## ✅ Current Progress / 🔜 Roadmap
 | Status |  Topic | Notes |
 |--------|--------|-------|
-| ✅ | SSH access with ED25519 keys |  |
-| ✅ | Basic Pi-Hole setup |  |
-| ⚙️ | Pi-hole documentation | - In progress
-| 🔜 | Add Unbound (private recursive DNS) | - In progress |
-| 🔜 | Wireguard VPN (Zaragoza ↔️ Village) | 🔜 |
-| 🟦 | Monitoring stack )Grafana/Prometheus) | Medium term |
+| ✅ | SSH access with ED25519 keys | Secure login |
+| ✅ | Basic Pi-Hole setup | DNS ad-blocking running |
+| ⌛ | Pi-hole documentation | In progress |
+| ⌛ | Add Unbound (private recursive DNS) | Improves privacy and speed |
+| 🔜 | WireGuard VPN (Zaragoza ↔️ Village) | Remote access  |
+| 🟦 | Monitoring stack (Grafana/Prometheus) | Medium term |
 | 🟦 | Automation and backup strategy | Medium term |
 | 🟦 | Firewall (OPNsense) | Medium term |
-| 🟦 | Site-to-site Wireguard tunnel |  Medium term |
+| 🟦 | Site-to-site WireGuard tunnel |  Medium term |
   
 This roadmap evolves as the lab grows and new experiments appear.
 
@@ -31,13 +31,13 @@ This roadmap evolves as the lab grows and new experiments appear.
  
 ## 💻 Devices and software
 
-- **Raspberry PI 2B (Zaragoza):**
+- **Raspberry Pi 2B (Zaragoza):**
   
   - Raspberry Pi OS Lite
   - SSH with ED25519 keys
   - Pi- hole
     
-*If you´re into networks, self-hosting and learn by doing - welcome*
+*If you´re into networks, self-hosting and learning by doing - welcome!*
 
 
 
